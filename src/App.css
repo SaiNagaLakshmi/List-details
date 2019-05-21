@@ -18,7 +18,12 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+.iconSty{
+ padding: 10px;
+ color: #f7f3f3;
+    background-color: #656eb1;
+ border-radius: 50%
+}
 .App-link {
   color: #61dafb;
 }
@@ -31,3 +36,62 @@
     transform: rotate(360deg);
   }
 }
+.circle {
+  background: #9575cd;
+  width: 51px;
+  height: 53px;
+  border-radius: 50%;
+}
+.circle1 {
+  background: #4dd0e1;
+  width: 51px;
+  height: 53px;
+  border-radius: 50%;
+}
+
+.circle2 {
+  background: #ffb74d;
+  width: 51px;
+  height: 53px;
+  border-radius: 50%;
+}
+
+.circle3 {
+  background: #a1887f ;
+  width: 51px;
+  height: 53px;
+  border-radius: 50%;
+}
+
+.circle4 {
+  background: #ff8a65 ;
+  width: 51px;
+  height: 53px;
+  border-radius: 50%;
+}
+.card-design {
+  font-size: 15px;
+    font-family: sans-serif;
+    line-height: 41px;
+}
+.btn-color {
+  margin-left: 75%;
+    margin-top: 24px;
+}
+.fluts {
+  float: "left";
+  color: "#673ab7";
+}
+.aggre {
+  font-size: 24px;
+    margin-top: 16px;
+    margin-left: 19px;
+    color: white;
+}
+.move:hover {
+  border: 1px solid blue;
+  cursor: pointer;
+  box-shadow: 0 8px 17px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19)!important;
+
+}
+
